@@ -13,7 +13,7 @@ Udacity Full Stack Web Developer Nanodegree: Full Stack Foundations Project
  
 <h2>Files</h2>
  - database_setup.py - Database setup
- - finalproject.py - Restaurant menu web application
+ - project.py - Restaurant menu web application
  - lotsofmenus.py - database for the web application
 
 <h2>Prerequisites</h2>
